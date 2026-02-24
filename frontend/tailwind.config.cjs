@@ -6,6 +6,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        'prompt': ['Prompt', 'sans-serif'],
+      },
       colors: {
         primary: {
           50: '#eff6ff',
